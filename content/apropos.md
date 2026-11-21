@@ -7,4 +7,4 @@
 :align: left
 ```
 \
-Je suis étudiant(e) en bachelor en **[nom du programme]** à l'**UNIL**, avec un intérêt particulier pour **[domaine principal / spécialisation]**.
+Je suis étudiant(e) en bachelor en **Géographie, environnement et sociétés** à l'**UNIL**, avec un intérêt particulier pour **la compréhension du mode de production capitaliste**.
