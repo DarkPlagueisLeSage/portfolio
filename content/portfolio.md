@@ -10,11 +10,11 @@
 
 *Celles que tu reconnais, pas celles que tu devrais avoir. La référence suffit, par ex. TELEDE-3, avec trois mots d'intitulé.*
 
-1. GESTSOCIFLUX-1
-2. GESTSOCIFLUX-3
-3. TELEDE-3
-4. AMENTERR-3
-5. GEOGSOCICULT-6
+1. GESTSOCIFLUX-1 : comprendre métabolisme social
+2. GESTSOCIFLUX-3 : Alternatif système actuel
+3. TELEDE-3 : Python traiter données
+4. AMENTERR-3 : projet dans commune
+5. GEOGSOCICULT-6 : initiation recherche terrain
 
 ---
 
