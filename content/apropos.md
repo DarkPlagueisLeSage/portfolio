@@ -1,6 +1,6 @@
 # À propos
 
-<img src="<img width="1078" height="1436" alt="photo_de_profil" src="https://github.com/user-attachments/assets/98aa7c39-8727-49f3-9452-5d0d2bbced12" />
+<img width="1078" height="1436" alt="photo_de_profil" src="https://github.com/user-attachments/assets/98aa7c39-8727-49f3-9452-5d0d2bbced12" />
 " 
      alt="Photo de profil" 
      class="bg-primary mb-1" 
