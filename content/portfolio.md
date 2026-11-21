@@ -10,11 +10,11 @@
 
 *Celles que tu reconnais, pas celles que tu devrais avoir. La référence suffit, par ex. TELEDE-3, avec trois mots d'intitulé.*
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. GESTSOCIFLUX-1
+2. GESTSOCIFLUX-3
+3. TELEDE-3
+4. AMENTERR-3
+5. GEOGSOCICULT-6
 
 ---
 
