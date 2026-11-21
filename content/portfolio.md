@@ -1,6 +1,6 @@
 # Portfolio de compétences
 
-**Orientation :**
+**Orientation : Géographie, env. et sociétés**
 
 [Lien de l'arbre des connaissances](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/) *(filtre sur ton orientation)*
 
@@ -24,10 +24,13 @@
 
 | Compétence (réf. + intitulé) | La preuve (quoi, quand, sous quelle forme) | Ce que j'ai décidé (un choix, et pourquoi) | Écrit, audio, images, etc. (où la retrouver, ou perdue) | 
 |---|---|---|---|
-| Compétence 1 |  |  |  |
-| Compétence 2  |  |  |  |
-|  Compétence 3 |  |  |  |
-|  Compétence 4 (hors cursus) |  |  |  |
+| AMENTERR-3 : Développer un projet d'aménagement dans une commune vaudoise et sur un périmètre spécifique, avec le soutien de l'équipe de Région Morges, en tenant compte des enjeux spatiaux, des exigences légales et des principes de durabilité sociale et environnementale | Le contrôle continu de ce cours | Il consistait précisément à développer un tel projet | <img width="598" height="602" alt="image" src="https://github.com/user-attachments/assets/d88733d4-9ba5-44f9-8ec6-1e9545d4af83" />
+ |
+| GESTSOCIFLUX-3 : Réfléchir aux alternatives existantes au système actuel | Cours 9 effectué en 2ème année de Bachelor : Métabolisme Social, Constitutionnalisme Écologique et Permacircularité | Ce cours met notamment en avant une constitution socio-écologique dans une économie permacirculaire comme alternative au système actuel | <img width="714" height="386" alt="image" src="https://github.com/user-attachments/assets/ffd31f00-22ca-41d8-919d-878a3799b254" />
+ |
+| TELEDE-3 : Utiliser du code Python pour traiter des données de télédétection | Le TP : Détection des changements suite à la crue d’une rivière | Ce TP se fait sur Python et traite des données de télédétection | <img width="599" height="586" alt="image" src="https://github.com/user-attachments/assets/4ec58124-a57d-49dd-943c-25f737351f72" />
+ |
+| Compétence 4 (hors cursus) |  |  |  |
 ---
 
 *Arbre des connaissances, état au 21 octobre 2026 · [gse-sondage.unil.ch/quiz-rentree-fgse/arbre/](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/)*
